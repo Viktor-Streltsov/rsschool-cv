@@ -32,9 +32,9 @@ alert( result );
 ### Education
 * __University:__ Kyrgyz State Technical University named after Razzakov
 * __Courses:__
- *[CS50 lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
- *[ItGid](https://cabinet.itgid.info/ru)
- *[Code.mu](https://code.mu/ru/javascript/book/prime/)
+    *[CS50 lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+    *[ItGid](https://cabinet.itgid.info/ru)
+    *[Code.mu](https://code.mu/ru/javascript/book/prime/)
 ***
 ### English
 B1
